@@ -1,0 +1,14 @@
+A beginning of the day website, the one stop site for planning your day.
+
+Features 
+	gretting 
+		name and date with use of java script
+	list of things todo
+		use <ul> for things to do  
+	
+	shows a img that can be changed
+
+	Weather
+    	Find a embed whether code that fits 
+	
+
